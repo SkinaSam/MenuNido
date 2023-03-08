@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mostra variabile JavaScript</title>
+  </head>
+  <body>
+    <div>Siamo nella settimana:</div>
+    <div id="settimanaCorrenteText"></div>
+    <div>Menu odierno:</div>
+    <div id="pastoOdiernoText"></div>
+<script>
+    fetch('Menu.json').then((response) => response.json())
+        .then((json) => handleMenu(json));
+
+        var today = new Date();
+        var startDate = "2023-02-20";
+        
+    function handleMenu(menu){
+       
+        let todayNum = today.getDay() -1;
+        let settimanaCorrente = getSettimanaCorrente();
+        // Definisci le variabile pasto e settimanaCorrente
+        let pastoOdierno =  menu[settimanaCorrente].Menu[todayNum].Pasti;
+
+        // Ottieni il riferimento all'elemento HTML in cui vuoi mostrare la variabile
+        let pastoOdiernoElement = document.getElementById("pastoOdiernoText");
+        let settimanaCorrenteElement = document.getElementById("settimanaCorrenteText");
+
+        // Aggiungi il valore della variabile all'elemento HTML
+        pastoOdiernoElement.innerHTML = pastoOdierno;
+        settimanaCorrenteElement.innerHTML  = settimanaCorrente +1 ;
+
+
+       
+    }
+    function getSettimanaCorrente(){
+        let startWeek = getWeekNumber(startDate);
+        let thisWeek= getWeekNumber(today);
+        let currentWeek = (thisWeek - startWeek) % 4; 
+        return currentWeek;
+    }
+
+    function getWeekNumber(date) {
+  // Creiamo una copia della data per non modificare l'originale
+  var d = new Date(date);
+  
+  // Impostiamo il primo gennaio come il primo giorno della settimana 1
+  var yearStart = new Date(d.getFullYear(), 0, 1);
+  
+  // Calcoliamo il numero di giorni trascorsi dall'inizio dell'anno
+  var days = Math.floor((d - yearStart) / (24 * 60 * 60 * 1000)) + 1;
+  
+  // Calcoliamo il numero della settimana dividento i giorni per 7 e arrotondando per difetto
+  var week = Math.floor(days / 7) + 1;
+  
+  return week;
+}
+
+</script>
+
+</body>
+</html>

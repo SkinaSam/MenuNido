@@ -1,0 +1,117 @@
+[{
+    "Settimana": "1",
+    "Menu": [{
+            "Giorno": "Lunedì",
+            "Numero Giorno": 1,
+            "Pasti": "Penne al Pomodoro e basilico, Bocconcini di pollo alla salvia, Carotine al forno, Pane e Frutta"
+        },
+        {
+            "Giorno": "Martedì",
+            "Numero Giorno": 2,
+            "Pasti": "Pasta al ragù di pesce merluzzo*, Platessa alla pizzaiola, Bieta all'olio, Pane e Frutta"
+        },
+        {
+            "Giorno": "Mercoledì",
+            "Numero Giorno": 3,
+            "Pasti": "Riso con crema di piselli*, Polpettine di ricotta, Spinaci, Pane e Frutta"
+        },
+        {
+            "Giorno": "Giovedì",
+            "Numero Giorno": 4,
+            "Pasti": "Pasta con il cavolfiore, Uova strapazzate, Purè, Pane e Frutta"
+        },
+        {
+            "Giorno": "Venerdì",
+            "Numero Giorno": 5,
+            "Pasti": "Polenta al pomodoro, Polpettine di ceci, Finocchi gratinati, Pane e Frutta"
+        }
+    ]
+},
+{
+    "Settimana": "2",
+    "Menu": [{
+            "Giorno": "Lunedì",
+            "Numero Giorno": 1,
+            "Pasti": "Risotto alla parmigiana, Frittata di cavolfiore, Patate all'olio, Pane e Frutta"
+        },
+        {
+            "Giorno": "Martedì",
+            "Numero Giorno": 2,
+            "Pasti": "Mezze maniche pomodoro e ricotta, Polpettine di merluzzo, Fagiolini all'olio, Pane e Frutta"
+        },
+        {
+            "Giorno": "Mercoledì",
+            "Numero Giorno": 3,
+            "Pasti": "Crema di fagioli con pasta, Stracchino. Carotine al forno, Pane e Frutta"
+        },
+        {
+            "Giorno": "Giovedì",
+            "Numero Giorno": 4,
+            "Pasti": "Penne con il minestrone, Spezzatino con Piselli, Pane e Frutta"
+        },
+        {
+            "Giorno": "Venerdì",
+            "Numero Giorno": 5,
+            "Pasti": "Lasagnetta al pomodoro, Bocconcini di tacchino alla pizzaiola, Spinaci, Pane e Frutta"
+        }
+    ]
+},
+{
+    "Settimana": "3",
+    "Menu": [{
+            "Giorno": "Lunedì",
+            "Numero Giorno": 1,
+            "Pasti": "Pennette con il pesto di spinaci, Crocchettine di fagioli, Carote al forno, Pane e Frutta"
+        },
+        {
+            "Giorno": "Martedì",
+            "Numero Giorno": 2,
+            "Pasti": "Fusilli alla pizzaiola, Platessa gratinata, Finocchi all'olio, Pane e Frutta"
+        },
+        {
+            "Giorno": "Mercoledì",
+            "Numero Giorno": 3,
+            "Pasti": "Riso con crema di lenticchie, Ricottina, Cicorietta all'olio, Pane e Frutta"
+        },
+        {
+            "Giorno": "Giovedì",
+            "Numero Giorno": 4,
+            "Pasti": "Sedanini olio e parmigiano, Frittata al prosciutto cotto, Patate al forno, Pane e Frutta"
+        },
+        {
+            "Giorno": "Venerdì",
+            "Numero Giorno": 5,
+            "Pasti": "Pennette al sugo di polpette, Polpettine di pollo, Cavolfiore gratinato, Pane e Frutta"
+        }
+    ]
+},
+{
+    "Settimana": "4",
+    "Menu": [{
+            "Giorno": "Lunedì",
+            "Numero Giorno": 1,
+            "Pasti": "Risottino alla zucca, Frittatina semplice, Bieta all'olio, Pane e Frutta"
+        },
+        {
+            "Giorno": "Martedì",
+            "Numero Giorno": 2,
+            "Pasti": "Tortiglioni ai broccoli, Crocchette di merluzzo, Bastoncini di zucchine gratinate, Pane e Frutta"
+        },
+        {
+            "Giorno": "Mercoledì",
+            "Numero Giorno": 3,
+            "Pasti": "Pasta con crema di ceci, Crescenza, Finocchi gratinati, Pane e Frutta"
+        },
+        {
+            "Giorno": "Giovedì",
+            "Numero Giorno": 4,
+            "Pasti": "Pennette al Pomodoro, Bocconcini di pollo alla pizzaiola, Carotine brasate, Pane e Frutta"
+        },
+        {
+            "Giorno": "Venerdì",
+            "Numero Giorno": 5,
+            "Pasti": "Lasagnetta con il pesto vegetale, Arrosto di maiale al forno, Patate al forno, Pane e Frutta"
+        }
+    ]
+}
+]
