@@ -9,7 +9,7 @@
     <div>Menu odierno:</div>
     <div id="pastoOdiernoText"></div>
 <script>
-    fetch('Menu.json').then((response) => response.json())
+    fetch('MenuEstivo.json').then((response) => response.json())
         .then((json) => handleMenu(json));
 
         var today = new Date();
