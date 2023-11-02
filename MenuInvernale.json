@@ -3,13 +3,6 @@
     "Menu": [{
             "Giorno": "Lunedì",
             "Numero Giorno": 1,
-            "Pasti": "Farfalle al Pomodoro e basilico, Bocconcini di pollo alla salvia, Carotine al forno, Pane e Frutta"
-        },
-        {[{
-    "Settimana": "1",
-    "Menu": [{
-            "Giorno": "Lunedì",
-            "Numero Giorno": 1,
             "Pasti": "Penne al Pomodoro e basilico, Bocconcini di pollo alla salvia, Carotine al forno, Pane e Frutta"
         },
         {
@@ -118,115 +111,6 @@
             "Giorno": "Venerdì",
             "Numero Giorno": 5,
             "Pasti": "Lasagnetta con il pesto vegetale, Arrosto di maiale al forno, Patate al forno, Pane e Frutta"
-        }
-    ]
-}
-]
-            "Giorno": "Martedì",
-            "Numero Giorno": 2,
-            "Pasti": "Pennette platessa e pomodorini, Medagliioni di merluzzo gratinati, Bastoncini di zucchine al forno, Pane e Frutta"
-        },
-        {
-            "Giorno": "Mercoledì",
-            "Numero Giorno": 3,
-            "Pasti": "Risottino allo zafferano, Polpettone di legumi, Insalata di pomodori, Pane e Frutta"
-        },
-        {
-            "Giorno": "Giovedì",
-            "Numero Giorno": 4,
-            "Pasti": "Tortiglioni con le zucchine, Uova sode, Patate all'olio, Pane e Frutta"
-        },
-        {
-            "Giorno": "Venerdì",
-            "Numero Giorno": 5,
-            "Pasti": "Pasta al pesto delicato, Ricottina, Melanzane al forno, Pane e Frutta"
-        }
-    ]
-},
-{
-    "Settimana": "2",
-    "Menu": [{
-            "Giorno": "Lunedì",
-            "Numero Giorno": 1,
-            "Pasti": "Risotto alla parmigiana, Girella di uovo e verdure, Patatine all'olio, Pane e Frutta"
-        },
-        {
-            "Giorno": "Martedì",
-            "Numero Giorno": 2,
-            "Pasti": "Mezze maniche zucchine e ricotta, Platessa gratinata, Fagiolini all'olio, Pane e Frutta"
-        },
-        {
-            "Giorno": "Mercoledì",
-            "Numero Giorno": 3,
-            "Pasti": "Farro fagioli e carotine, Robiolina, Carotine julienne, Pane e Frutta"
-        },
-        {
-            "Giorno": "Giovedì",
-            "Numero Giorno": 4,
-            "Pasti": "Penne pomodoro e basilico, Hamburger di manzo, Insalata mista di stagione, Pane e Frutta"
-        },
-        {
-            "Giorno": "Venerdì",
-            "Numero Giorno": 5,
-            "Pasti": "Farfalle fredde tricolore, Straccetti di pollo, Pomodorini, Pane e Frutta"
-        }
-    ]
-},
-{
-    "Settimana": "3",
-    "Menu": [{
-            "Giorno": "Lunedì",
-            "Numero Giorno": 1,
-            "Pasti": "Farfalline con il pesto di fagiolini e patate, Crocchettine di fagioli, Carotine julienne, Pane e Frutta"
-        },
-        {
-            "Giorno": "Martedì",
-            "Numero Giorno": 2,
-            "Pasti": "Fusilli pomodoro e basilico, Polpettini di merluzzo dorate, Insalata cappuccina, Pane e Frutta"
-        },
-        {
-            "Giorno": "Mercoledì",
-            "Numero Giorno": 3,
-            "Pasti": "Farro all'ortolana, Ricottina, Zucchine gratinate, Pane e Frutta"
-        },
-        {
-            "Giorno": "Giovedì",
-            "Numero Giorno": 4,
-            "Pasti": "Sedanini alle melanzane, Omelette al prosciutto cotto, Lattuga e pomodori, Pane e Frutta"
-        },
-        {
-            "Giorno": "Venerdì",
-            "Numero Giorno": 5,
-            "Pasti": "Riso con piselli e carotine, Scaloppine di pollo al limone, Purè di patate, Pane e Frutta"
-        }
-    ]
-},
-{
-    "Settimana": "4",
-    "Menu": [{
-            "Giorno": "Lunedì",
-            "Numero Giorno": 1,
-            "Pasti": "Orzo al ragù vegetale, Uova sode, Fagiolini olio e limone, Pane e Frutta"
-        },
-        {
-            "Giorno": "Martedì",
-            "Numero Giorno": 2,
-            "Pasti": "Tortiglioni olio e parmigiano, Platessa al limone, Carote e insalata, Pane e Frutta"
-        },
-        {
-            "Giorno": "Mercoledì",
-            "Numero Giorno": 3,
-            "Pasti": "Cous cous con ceci e verdure, Crescenza, Insalata di pomodori, Pane e Frutta"
-        },
-        {
-            "Giorno": "Giovedì",
-            "Numero Giorno": 4,
-            "Pasti": "Pennette al Pomodoro e basilico, Bocconcini di pollo croccanti, Bieta all'olio, Pane e Frutta"
-        },
-        {
-            "Giorno": "Venerdì",
-            "Numero Giorno": 5,
-            "Pasti": "Lasagnetta con il pesto, Arrosto di maiale al forno, Patate al forno, Pane e Frutta"
         }
     ]
 }
