@@ -9,11 +9,11 @@
     <div>Menu odierno:</div>
     <div id="pastoOdiernoText"></div>
 <script>
-    fetch('MenuInvernale.json').then((response) => response.json())
+    fetch('Estivo.json').then((response) => response.json())
         .then((json) => handleMenu(json));
 
         var today = new Date();
-        var startDate = "2024-01-22";
+        var startDate = "2024-04-15";
         
     function handleMenu(menu){
        
